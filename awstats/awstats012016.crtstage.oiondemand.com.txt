@@ -1,0 +1,298 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201601 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.crtstage.oiondemand.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2003                
+POS_TIME 2682                
+POS_VISITOR 6454                
+POS_DAY 6611                
+POS_DOMAIN 3235                
+POS_LOGIN 3467                
+POS_ROBOT 4269                
+POS_WORMS 4401                
+POS_EMAILSENDER 4532                
+POS_EMAILRECEIVER 4675                
+POS_SESSION 6797                
+POS_SIDER 6972                
+POS_FILETYPES 4810                
+POS_DOWNLOADS 5026                
+POS_OS 5074                
+POS_BROWSER 5126                
+POS_SCREENSIZE 5189                
+POS_UNKNOWNREFERER 5263                
+POS_UNKNOWNREFERERBROWSER 5350                
+POS_ORIGIN 5432                
+POS_SEREFERRALS 5567                
+POS_PAGEREFS 5711                
+POS_SEARCHWORDS 5859                
+POS_KEYWORDS 6011                
+POS_MISC 2345                
+POS_ERRORS 6070                
+POS_CLUSTER 3323                
+POS_SIDER_404 6145                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160125125816 732 107743 6951538858900
+FirstTime 20160107165003
+LastTime 20160125125816
+LastUpdate 20160125131003 0 0 0 0 0
+TotalVisits 5                   
+TotalUnique 1                   
+MonthHostsKnown 1                   
+MonthHostsUnknown 0                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 11 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 27 144 936006 0 1 0
+10 3 9 292780 0 0 0
+11 28 152 1706677 0 3 0
+12 40 83 313896 0 1 0
+13 0 0 0 0 0 0
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 27 154 911361 0 1 0
+17 34 160 1392358 0 1 0
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 10 52 817087 0 1 0
+21 16 59 886043 0 2 0
+22 110 429 2190548 0 1 0
+23 17 54 53143 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+com 312 1296 9499899
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 14
+"73.1.37.195"_-_- 175 653 4105646 20160125125816
+"12.219.60.242"_-_- 76 399 2619509 20160112112851
+"75.40.212.47"_-_- 27 144 936006 20160108094440
+"192.162.26.16"_-_- 25 68 912293 20160125124444
+"89.145.108.203"_-_- 3 9 292780 20160107174526
+"70.39.157.192"_-_- 3 6 216023 20160108100338
+"70.39.157.194"_-_- 3 4 24161 20160108100338
+"70.39.157.198"_-_- 0 1 35601 20160107174523
+"70.39.157.193"_-_- 0 1 95931 20160108100338
+"70.39.157.196"_-_- 0 3 76757 20160108100338
+"70.39.157.197"_-_- 0 1 95931 20160107174523
+"70.39.157.199"_-_- 0 1 5555 20160108100338
+"54.152.36.54"_-_- 0 5 48105 20160125125758
+"70.39.157.195"_-_- 0 1 35601 20160107174523
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 485 644481 0 0
+png 90 4593685 0 0
+ttf 9 53616 0 0
+woff2 8 44040 0 0
+woff 50 714986 0 0
+php 51 277037 0 0
+js 409 2112870 0 0
+Unknown 194 1059184 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 1
+Unknown 1296
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 1
+Unknown 1296
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 0 0
+From1 312 1296
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1
+crtstage.oiondemand.com 312 1296 9499899 20160125125816 20160125115216 /crt/450/edit
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 5
+20160107 61 314 2303719 1
+20160108 30 153 1228786 1
+20160112 21 103 901350 1
+20160124 153 594 3946821 1
+20160125 47 132 1119223 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+1h+ 1
+15mn-30mn 1
+2mn-5mn 1
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 46
+/ 51 277037 5 0
+/auth/login 50 103408 0 2
+/home 32 145252 0 0
+/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff 20 186560 0 0
+/assets/fonts/font-awesome/fonts/fontawesome-webfont-v=4.2.0.woff 17 523616 0 0
+/assets/fonts/circle-frame/circle-frame-negative-mt-1361548299-webfont.woff 13 4810 0 0
+/auth/logout 11 2178 0 0
+/crt/create 9 187037 0 0
+/assets/fonts/circle-frame/circle-frame-negative-mt-1361548299-webfont.ttf 9 53616 0 0
+/crt/132/edit 8 167426 0 0
+/crt/12/edit 1 20829 0 0
+/crt/5/edit 1 20822 0 0
+/crt/precertify/450 2 50 0 0
+/crt/getCrts/8018 6 1122 0 0
+/crt/142 2 6554 0 0
+/loginas/1 2 400 0 0
+/crt/46/edit 1 20867 0 0
+/restaurants/getMfpDfp/8018 6 240 0 0
+/crt/getCrts/319 1 96 0 0
+/crt/getCrts/7017 1 2669 0 0
+/crt/450/edit 7 146374 0 0
+/crt/575/edit 1 20858 0 0
+/loginas/12 7 1400 0 0
+/crt/getCrts/817 1 2669 0 0
+/crt/35/edit 1 20874 0 0
+/restaurants/getMfpDfp/817 1 39 0 0
+/restaurants/getMfpDfp/7017 1 40 0 0
+/crt/570/edit 2 41664 0 0
+/restaurants/getMfpDfp/319 1 40 0 0
+/crt/2/edit 1 20819 0 0
+/loginas/136 4 800 0 0
+/assets/fonts/circle-frame/circle-frame-negative-mt-1361548299-webfont.woff2 8 44040 0 1
+/crt/132 3 9842 0 0
+/crt 8 488 0 0
+/crt/precertify/132 2 50 0 0
+/loginas/208 1 200 0 0
+/crt/450 5 16383 0 1
+/loginas/335 1 200 0 0
+/crt/precertify/142 1 25 0 0
+/crt/230/edit 1 20836 0 0
+/crt/35 2 6594 0 0
+/loginas/316 1 200 0 0
+/loginas/53 3 940 0 0
+/crt/142/edit 3 62823 0 0
+/loginas/79 1 200 0 0
+/crt/570 2 5876 0 0
+END_SIDER

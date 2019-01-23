@@ -1,0 +1,296 @@
+# Webalizer V2.23-05 Incremental Data - 01/24/2016 23:10:48
+2016 1 24 23 10 48
+1173 608 1 88 0 0 8380676 221 7 0 0 0
+1 54 430 7 24
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+316 153 2303719 1 56 1 0 0
+154 78 1228786 1 26 1 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+105 64 901350 1 19 1 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+598 313 3946821 1 120 4 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+145 69 936006 23 0 0
+9 9 292780 3 0 0
+105 64 901350 19 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+155 70 911361 24 0 0
+161 83 1392358 32 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+53 53 817087 10 0 0
+61 61 886043 14 0 0
+430 185 2190548 84 0 0
+54 14 53143 12 0 0
+0
+0
+0
+608
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+565
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/assets/plugins/datatables/extensions/Responsive/js/dataTables.responsive.min.js
+0 22 0 20848 0 0 0 0
+/crt/142/edit
+0 3 0 62823 0 0 0 0
+/crt
+0 8 0 488 0 0 0 0
+/assets/plugins/autosize/autosize.min.js
+0 22 0 11760 0 0 0 0
+/loginas/136
+0 4 0 800 0 0 0 0
+/crt/getCrts/319
+0 1 0 96 0 0 0 0
+/assets/fonts/circle-frame/circle-frame-negative-mt-1361548299-webfont.woff2
+0 5 0 29360 0 0 0 0
+/assets/fonts/circle-frame/circle-frame-negative-mt-1361548299-webfont.ttf
+0 9 0 53616 0 0 0 0
+/assets/js/bootstrap-select.js
+0 23 0 91712 0 0 0 0
+/assets/js/jquery.easing.min.js
+0 28 0 48202 0 0 0 0
+/assets/plugins/icheck/skins/all.css
+0 22 0 2536 0 0 0 0
+/auth/logout
+0 10 0 1980 1 0 0 0
+/assets/fonts/font-awesome/fonts/fontawesome-webfont-v
+0 15 0 458164 0 2 0 0
+/assets/plugins/bootstrap/js/bootstrap.min.js
+0 29 0 289134 0 0 0 0
+/crt/132/edit
+0 7 0 146491 0 0 0 0
+/assets/images/logo_email.png
+1 3 0 28863 0 0 0 0
+/assets/plugins/icheck/skins/square/blue@2x.png
+1 2 0 8970 0 0 0 0
+/crt/450
+0 3 0 9817 0 0 0 0
+/assets/plugins/pace/pace-theme-flash.css
+0 22 0 3976 0 0 0 0
+/crt/getCrts/7017
+0 1 0 2669 0 0 0 0
+/assets/js/jquery-1.11.2.min.js
+0 28 0 841842 0 0 0 0
+/assets/js/scripts.js
+0 24 0 168632 0 0 0 0
+/assets/plugins/datatables/extensions/Responsive/bootstrap/3/dataTables.bootstrap.js
+0 22 0 12768 0 0 0 0
+/loginas/1
+0 2 0 400 0 0 0 0
+/assets/plugins/perfect-scrollbar/perfect-scrollbar.min.js
+0 22 0 26928 0 0 0 0
+/crt/precertify/132
+0 2 0 50 0 0 0 0
+/crt/precertify/142
+0 1 0 25 0 0 0 0
+/assets/plugins/datatables/extensions/Responsive/bootstrap/3/dataTables.bootstrap.css
+0 22 0 8496 0 0 0 0
+/assets/css/animate.min.css
+0 22 0 29512 0 0 0 0
+/loginas/53
+0 3 0 940 0 0 0 0
+/crt/35/edit
+0 1 0 20874 0 0 0 0
+/assets/plugins/icheck/skins/flat/_all.css
+0 22 0 8360 0 0 0 0
+/assets/plugins/perfect-scrollbar/perfect-scrollbar.css
+0 22 0 5136 0 0 0 0
+/favicon.ico
+0 9 0 0 0 0 0 0
+/crt/5/edit
+0 1 0 20822 0 0 0 0
+/restaurants/getMfpDfp/8018
+0 6 0 240 0 0 0 0
+/assets/plugins/icheck/skins/line/line@2x.png
+1 2 0 2146 0 0 0 0
+/assets/plugins/datatables/js/jquery.dataTables.min.js
+0 22 0 213168 0 0 0 0
+/assets/plugins/icheck/skins/square/blue.css
+0 22 0 3688 0 0 0 0
+/assets/plugins/icheck/skins/line/line.png
+1 5 0 2940 0 0 0 0
+/crt/getCrts/817
+0 1 0 2669 0 0 0 0
+/crt/12/edit
+0 1 0 20829 0 0 0 0
+/assets/plugins/bootstrap/css/bootstrap-theme.min.css
+0 22 0 18800 0 0 0 0
+/assets/images/login-bg2.png
+1 8 0 3691304 0 0 0 0
+/assets/plugins/viewport/viewportchecker.js
+0 22 0 13168 0 0 0 0
+/assets/plugins/sparkline-chart/jquery.sparkline.min.js
+0 22 0 104160 0 0 0 0
+/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff
+0 17 0 139920 0 0 0 0
+/crt/46/edit
+0 1 0 20867 0 0 0 0
+/assets/js/chart-sparkline.js
+0 22 0 520 0 0 0 0
+/assets/plugins/icheck/skins/square/_all.css
+0 22 0 9736 0 0 0 0
+/auth/login
+0 42 0 94537 0 2 0 0
+/assets/plugins/icheck/skins/line/_all.css
+0 22 0 12592 0 0 0 0
+/assets/plugins/icheck/icheck.min.js
+0 24 0 17928 0 0 0 0
+/crt/575/edit
+0 1 0 20858 0 0 0 0
+/loginas/79
+0 1 0 200 0 0 0 0
+/crt/create
+0 9 0 187037 0 0 0 0
+/home
+0 28 0 127880 0 0 0 0
+/assets/fonts/circle-frame/stylesheet.css
+0 22 0 2216 0 0 0 0
+/loginas/208
+0 1 0 200 0 0 0 0
+/assets/css/responsive.css
+0 22 0 160 0 0 0 0
+/assets/fonts/font-awesome/css/font-awesome.css
+0 22 0 42688 0 0 0 0
+/
+0 42 0 235569 5 1 0 0
+/assets/plugins/datatables/extensions/TableTools/js/dataTables.tableTools.min.js
+0 22 0 74416 0 0 0 0
+/assets/images/logo.png
+1 21 0 149247 0 0 0 0
+/restaurants/getMfpDfp/7017
+0 1 0 40 0 0 0 0
+/assets/plugins/icheck/skins/minimal/_all.css
+0 22 0 9672 0 0 0 0
+/crt/35
+0 2 0 6594 0 0 0 0
+/crt/450/edit
+0 2 0 41812 0 0 0 0
+/crt/getCrts/8018
+0 6 0 1122 0 0 0 0
+/crt/142
+0 2 0 6554 0 0 0 0
+/restaurants/getMfpDfp/319
+0 1 0 40 0 0 0 0
+/loginas/12
+0 6 0 1200 1 0 0 0
+/assets/fonts/circle-frame/circle-frame-negative-mt-1361548299-webfont.woff
+0 13 0 4810 0 0 0 0
+/assets/plugins/datatables/extensions/Responsive/bootstrap/images/sort_asc.png
+1 11 0 7826 0 0 0 0
+/assets/plugins/pace/pace.min.js
+0 23 0 34312 0 0 0 0
+/crt/132
+0 3 0 9842 0 1 0 0
+/assets/css/bootstrap-select.css
+0 22 0 11920 0 0 0 0
+/assets/plugins/datatables/css/jquery.dataTables.css
+0 22 0 19112 0 0 0 0
+/crt/2/edit
+0 1 0 20819 0 0 0 0
+/assets/plugins/bootstrap/css/bootstrap.min.css
+0 22 0 149776 0 0 0 0
+/assets/images/login-as.png
+1 8 0 152019 0 0 0 0
+/restaurants/getMfpDfp/817
+0 1 0 39 0 0 0 0
+/assets/plugins/datatables/extensions/Responsive/css/dataTables.responsive.css
+0 22 0 4640 0 0 0 0
+/assets/plugins/datatables/extensions/TableTools/css/dataTables.tableTools.min.css
+0 22 0 10976 0 0 0 0
+/assets/plugins/datatables/extensions/Responsive/bootstrap/images/sort_both.png
+1 11 0 7952 0 0 0 0
+/assets/css/style.css
+0 27 0 218880 0 0 0 0
+/crt/230/edit
+0 1 0 20836 0 0 0 0
+/assets/plugins/icheck/skins/square/blue.png
+1 6 0 13110 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+crtstage.oiondemand.com
+0 1173 608 8380676 7 1453677048 0 0
+/crt/450
+# End Of Table - sites (monthly)
+# -sites- (daily)
+crtstage.oiondemand.com
+0 598 313 3946821 4 1453677048 0 0
+/crt/450
+# End Of Table - sites (daily)
+# -referrers- 
+# End Of Table - referrers
+# -agents- 
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

@@ -1,0 +1,3 @@
+Hello {!! $crt->userMFP->name !!} {!! $crt->userMFP->lastname !!},
+
+Pre-Certification status on {!! $crt->name !!} {!! $crt->lastname !!} at BK® {!! $crt->restNumber !!} will expire in 30 days. Please visit the restaurant to complete the Final CRT Certification (section 7 of the CRT/Training Restaurant Assessment) before {!! date("m/d/Y", strtotime("+90 day",$crt->precertified_at->getTimestamp())) !!}. 

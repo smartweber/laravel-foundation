@@ -1,0 +1,4 @@
+AuthName "crtstage.oiondemand.com statistics"
+AuthType Basic
+AuthUserFile /home/crtstage/documents/.awstats-htpasswd
+require valid-user

@@ -1,0 +1,190 @@
+DIV.dataTables_length LABEL
+{
+	font-weight: normal;
+	float: left;
+	text-align: left;
+}
+DIV.dataTables_length SELECT
+{
+	width: 75px;
+}
+DIV.dataTables_filter LABEL
+{
+	font-weight: normal;
+	float: right;
+}
+DIV.dataTables_filter INPUT
+{
+	/*[disabled]width:16em;*/
+}
+DIV.dataTables_info
+{
+	padding-top: 8px;
+}
+DIV.dataTables_paginate
+{
+	float: right;
+	margin: 0;
+}
+DIV.dataTables_paginate UL.pagination
+{
+	margin: 2px;
+}
+TABLE.table
+{
+	clear: both;
+	margin-top: 6px !important;
+	margin-bottom: 6px !important;
+	max-width: none !important;
+}
+TABLE.table THEAD .sorting, TABLE.table THEAD .sorting_asc, TABLE.table THEAD .sorting_desc, TABLE.table THEAD .sorting_asc_disabled, TABLE.table THEAD .sorting_desc_disabled
+{
+	cursor: pointer;
+}
+TABLE.table THEAD .sorting
+{
+	background: url('../images/sort_both.png') no-repeat center right;
+}
+TABLE.table THEAD .sorting_asc
+{
+	background: url('../images/sort_asc.png') no-repeat center right;
+}
+TABLE.table THEAD .sorting_desc
+{
+	background: url('../images/sort_desc.png') no-repeat center right;
+}
+TABLE.table THEAD .sorting_asc_disabled
+{
+	background: url('../images/sort_asc_disabled.png') no-repeat center right;
+}
+TABLE.table THEAD .sorting_desc_disabled
+{
+	background: url('../images/sort_desc_disabled.png') no-repeat center right;
+}
+TABLE.dataTable TH:active
+{
+	outline: none;
+}
+/*Scrolling*/
+DIV.dataTables_scrollHead TABLE
+{
+	margin-bottom: 0 !important;
+	border-bottom-left-radius: 0;
+	border-bottom-right-radius: 0;
+}
+DIV.dataTables_scrollHead TABLE THEAD TR:last-child TH:first-child, DIV.dataTables_scrollHead TABLE THEAD TR:last-child TD:first-child
+{
+	border-bottom-left-radius: 0 !important;
+	border-bottom-right-radius: 0 !important;
+}
+DIV.dataTables_scrollBody TABLE
+{
+	border-top: none;
+	margin-bottom: 0 !important;
+}
+DIV.dataTables_scrollBody TBODY TR:first-child TH, DIV.dataTables_scrollBody TBODY TR:first-child TD
+{
+	border-top: none;
+}
+DIV.dataTables_scrollFoot TABLE
+{
+	border-top: none;
+}
+/*
+* TableTools styles
+ */
+.table TBODY TR.active TD, .table TBODY TR.active TH
+{
+	background-color: #08C;
+	color: #FFFFFF;
+}
+.table TBODY TR.active:hover TD, .table TBODY TR.active:hover TH
+{
+	background-color: #0075B0 !important;
+}
+.table-striped TBODY TR.active:nth-child(odd) TD, .table-striped TBODY TR.active:nth-child(odd) TH
+{
+	background-color: #017EBC;
+}
+TABLE.DTTT_selectable TBODY TR
+{
+	cursor: pointer;
+}
+DIV.DTTT .btn
+{
+	color: #333 !important;
+	font-size: 12px;
+}
+DIV.DTTT .btn:hover
+{
+	text-decoration: none !important;
+}
+UL.DTTT_dropdown.dropdown-menu
+{
+	z-index: 2003;
+}
+UL.DTTT_dropdown.dropdown-menu A
+{
+	color: #333 !important;
+	/*needed only when demo_page.css is included*/
+}
+UL.DTTT_dropdown.dropdown-menu LI
+{
+	position: relative;
+}
+UL.DTTT_dropdown.dropdown-menu LI:hover A
+{
+	background-color: #0088CC;
+	color: #FFFFFF !important;
+}
+/*TableTools information display*/
+DIV.DTTT_print_info.modal
+{
+	height: 150px;
+	margin-top: -75px;
+	text-align: center;
+}
+DIV.DTTT_print_info H6
+{
+	font-weight: normal;
+	font-size: 28px;
+	line-height: 28px;
+	margin: 1em;
+}
+DIV.DTTT_print_info P
+{
+	font-size: 14px;
+	line-height: 20px;
+}
+/*
+* FixedColumns styles
+ */
+DIV.DTFC_LeftHeadWrapper TABLE, DIV.DTFC_LeftFootWrapper TABLE, DIV.DTFC_RightHeadWrapper TABLE, DIV.DTFC_RightFootWrapper TABLE, TABLE.DTFC_Cloned TR.even
+{
+	background-color: #FFFFFF;
+}
+DIV.DTFC_RightHeadWrapper TABLE, DIV.DTFC_LeftHeadWrapper TABLE
+{
+	margin-bottom: 0 !important;
+	border-top-right-radius: 0 !important;
+	border-bottom-left-radius: 0 !important;
+	border-bottom-right-radius: 0 !important;
+}
+DIV.DTFC_RightHeadWrapper TABLE THEAD TR:last-child TH:first-child, DIV.DTFC_RightHeadWrapper TABLE THEAD TR:last-child TD:first-child, DIV.DTFC_LeftHeadWrapper TABLE THEAD TR:last-child TH:first-child, DIV.DTFC_LeftHeadWrapper TABLE THEAD TR:last-child TD:first-child
+{
+	border-bottom-left-radius: 0 !important;
+	border-bottom-right-radius: 0 !important;
+}
+DIV.DTFC_RightBodyWrapper TABLE, DIV.DTFC_LeftBodyWrapper TABLE
+{
+	border-top: none;
+	margin-bottom: 0 !important;
+}
+DIV.DTFC_RightBodyWrapper TBODY TR:first-child TH, DIV.DTFC_RightBodyWrapper TBODY TR:first-child TD, DIV.DTFC_LeftBodyWrapper TBODY TR:first-child TH, DIV.DTFC_LeftBodyWrapper TBODY TR:first-child TD
+{
+	border-top: none;
+}
+DIV.DTFC_RightFootWrapper TABLE, DIV.DTFC_LeftFootWrapper TABLE
+{
+	border-top: none;
+}

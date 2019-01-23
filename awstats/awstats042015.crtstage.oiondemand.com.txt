@@ -1,0 +1,1120 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201504 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.crtstage.oiondemand.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2003                
+POS_TIME 2670                
+POS_VISITOR 6757                
+POS_DAY 6947                
+POS_DOMAIN 3257                
+POS_LOGIN 3491                
+POS_ROBOT 4449                
+POS_WORMS 4581                
+POS_EMAILSENDER 4712                
+POS_EMAILRECEIVER 4855                
+POS_SESSION 7257                
+POS_SIDER 7462                
+POS_FILETYPES 4990                
+POS_DOWNLOADS 5250                
+POS_OS 5298                
+POS_BROWSER 5350                
+POS_SCREENSIZE 5413                
+POS_UNKNOWNREFERER 5487                
+POS_UNKNOWNREFERERBROWSER 5574                
+POS_ORIGIN 5656                
+POS_SEREFERRALS 5792                
+POS_PAGEREFS 5936                
+POS_SEARCHWORDS 6084                
+POS_KEYWORDS 6236                
+POS_MISC 2333                
+POS_ERRORS 6295                
+POS_CLUSTER 3347                
+POS_SIDER_404 6404                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150501105244 2102 304310 7020834287799
+FirstTime 0
+LastTime 20150430180947
+LastUpdate 20150501110003 1 0 0 0 0
+TotalVisits 20                  
+TotalUnique 2                   
+MonthHostsKnown 2                   
+MonthHostsUnknown 0                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 37 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 15 35 89681 0 0 0
+11 17 105 1489099 8 10 1440
+12 108 229 2011214 1 9 174
+13 64 225 1994773 2 6 368
+14 278 652 2673807 0 3 0
+15 495 761 3325237 0 4 0
+16 396 948 3242553 1 5 214
+17 428 1206 9380555 12 22 2600
+18 117 385 2241970 2 6 436
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 45 96 1009366 0 1 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+com 1963 4642 27458255
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 15
+"12.219.60.242"_-_- 1405 3449 16143833 20150430180848
+"67.163.36.119"_-_- 239 414 3031787 20150430161826
+"75.40.212.47"_-_- 209 314 2433956 20150430180947
+"73.46.167.81"_-_- 45 96 1009366 20150416221902
+"208.71.189.3"_-_- 26 120 1074684 20150430130634
+"98.254.210.145"_-_- 18 64 829519 20150417154839
+"172.56.26.84"_-_- 8 52 764258 20150416184451
+"12.219.60.242,_66.249.80.99"_-_- 3 14 595903 20150422144433
+"75.74.64.78"_-_- 2 40 668265 20150428180847
+"12.219.60.242,_66.249.80.107"_-_- 2 9 23726 20150422145112
+"12.219.60.242,_66.249.85.152"_-_- 1 8 20542 20150422144434
+"12.219.60.242,_66.249.85.148"_-_- 1 10 51315 20150422144445
+"107.72.162.57"_-_- 1 38 660255 20150421171044
+"12.219.60.242,_66.249.80.91"_-_- 1 10 115526 20150422144444
+"12.219.60.242,_66.249.85.144"_-_- 2 4 35320 20150422144517
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+eot 16 397526 0 0
+css 1233 2175379 0 0
+png 215 14776722 0 0
+ttf 2 35744 0 0
+woff2 20 102760 0 0
+woff 32 1188604 0 0
+map 9 6060 0 0
+php 147 270123 0 0
+js 1231 3409411 0 0
+Unknown 1737 5095926 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 1
+Unknown 4642
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 1
+Unknown 4642
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 0 0
+From1 1963 4642
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+403 1 178
+404 10 1804
+301 15 3250
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 3
+/ 1 
+/crt/public1/index.php 1 
+/test.php 8 
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 2
+crtstage.oiondemand.com 1616 3657 22568377 20150430180947
+stage.bkcrtcertification.com 347 985 4889878 20150430180848
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 10
+20150401 11 11 452 2
+20150403 36 45 69551 1
+20150406 10 45 2830334 2
+20150416 735 1565 7391551 2
+20150417 44 156 1774740 3
+20150421 94 297 938605 1
+20150422 95 458 2090198 2
+20150428 20 147 1358355 2
+20150429 15 64 803812 1
+20150430 903 1854 10200657 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 7
+5mn-15mn 2
+15mn-30mn 1
+2mn-5mn 2
+0s-30s 3
+30s-2mn 3
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 850
+/auth/login 164 188269 1 3
+/ 140 269907 16 2
+/crt 81 123988 0 1
+/crt/8 75 215365 0 2
+/crt/create 38 1022462 0 1
+/section/8/1/edit 34 76822 0 0
+/crt/8/edit 31 690738 1 0
+/home 26 78174 0 0
+/auth/logout 25 4956 0 0
+/section/8/1 24 19128 0 0
+/answer/99/value/5 1 20 0 0
+/answer/76/value/10 1 20 0 0
+/crt/12 2 2890 0 0
+/answer/126/value/1 1 20 0 0
+/assets/fonts/font-awesome/fonts/fontawesome-webfont-v=4.2.0.eot 1 56006 0 0
+/answer/19/value/1 1 20 0 0
+/answer/132/value/1 1 20 0 0
+/crt/4 12 34739 0 0
+/answer/137/value/5 1 20 0 0
+/answer/361/value/10 1 20 0 0
+/crt/4/edit 10 401749 0 0
+/section/4/2 1 798 0 0
+/answer/332/value/10 1 20 0 0
+/answer/23/value/1 1 20 0 0
+/answer/74/value/5 1 20 0 0
+/answer/1026/value/0 1 20 0 0
+/answer/1040/value/5 1 20 0 0
+/answer/294/value/10 1 20 0 0
+/answer/15/value/1 1 20 0 0
+/answer/379/value/6 1 20 0 0
+/answer/576/value/1 1 20 0 0
+/answer/919/value/1 1 20 0 0
+/answer/967/value/10 1 20 0 0
+/answer/1014/value/0 1 20 0 0
+/answer/170/value/5 1 20 0 0
+/answer/790/value/1 1 20 0 0
+/answer/785/actionRequired/0 1 20 0 0
+/answer/70/value/10 1 20 0 0
+/section/4/7 1 803 0 0
+/answer/346/value/1 1 20 0 0
+/answer/570/value/1 1 20 0 0
+/crt/precertify/3 2 46 0 0
+/crt/public/index1.php 1 24 0 1
+/answer/419/value/5 1 20 0 0
+/answer/38/value/2 1 20 0 0
+/answer/804/value/1 2 40 0 0
+/assets/fonts/circle-frame/circle-frame-negative-mt-1361548299-webfont.woff2 20 102760 0 2
+/answer/568/value/1 1 20 0 0
+/answer/793/value/1 1 20 0 0
+/answer/102/value/10 1 20 0 0
+/answer/1009/value/1 2 40 0 0
+/answer/71/value/10 1 20 0 0
+/answer/241/value/1 1 20 0 0
+/answer/978/value/5 1 20 0 0
+/answer/352/value/1 1 20 0 0
+/answer/313/value/5 1 20 0 0
+/answer/785/comments/d 1 20 0 0
+/answer/144/value/5 1 20 0 0
+/answer/785/comments/a 8 160 0 0
+/section/9/7 2 1608 0 0
+/answer/920/value/10 1 20 0 0
+/answer/311/value/10 1 20 0 0
+/answer/418/value/5 1 20 0 0
+/answer/905/value/1 1 20 0 0
+/answer/69/value/10 1 20 0 0
+/answer/910/value/0 3 60 0 0
+/answer/404/value/4 1 20 0 0
+/section/3/1 1 793 0 0
+/answer/51/value/5 1 20 0 0
+/answer/52/value/2 1 20 0 0
+/answer/358/value/1 1 20 0 0
+/answer/992/value/5 1 20 0 0
+/answer/933/value/5 1 20 0 0
+/section/10/4/edit 1 1700 0 0
+/answer/235/value/1 1 20 0 0
+/answer/325/value/1 1 20 0 0
+/answer/146/value/2 1 20 0 0
+/answer/960/value/10 1 20 0 0
+/answer/96/value/5 1 20 0 0
+/answer/1009/actionRequired/1 1 20 0 0
+/answer/100/value/5 1 20 0 0
+/answer/582/value/1 1 20 0 0
+/answer/50/value/5 1 20 0 0
+/answer/24/actionRequired/1 1 20 0 0
+/answer/934/value/0 1 20 0 0
+/answer/993/value/5 1 20 0 0
+/answer/1048/actionRequired/1 1 20 0 0
+/answer/1031/comments/Magnificent! 1 20 0 0
+/section/1/7/edit 1 1700 0 0
+/answer/989/value/10 1 20 0 0
+/section/6/3 1 796 0 0
+/answer/329/value/5 1 20 0 0
+/answer/433/value/5 1 20 0 0
+/crt/2/edit 11 428474 0 0
+/answer/145/value/10 1 20 0 0
+/answer/915/value/0 3 60 0 0
+/answer/272/value/2 1 20 0 0
+/answer/337/value/0 1 20 0 0
+/answer/283/value/5 1 20 0 0
+/answer/356/value/1 1 20 0 0
+/answer/375/value/2 1 20 0 0
+/answer/111/value/10 1 20 0 0
+/answer/351/value/1 1 20 0 0
+/answer/339/actionRequired/1 1 20 0 0
+/answer/1039/value/0 1 20 0 0
+/answer/67/value/10 1 20 0 0
+/answer/121/value/1 1 20 0 0
+/answer/692/value/1 1 20 0 0
+/answer/326/value/1 1 20 0 0
+/answer/917/value/1 1 20 0 0
+/answer/72/value/5 1 20 0 0
+/answer/695/value/1 1 20 0 0
+/answer/931/value/2 1 20 0 0
+/answer/984/value/10 1 20 0 0
+/answer/1023/value/0 1 20 0 0
+/answer/43/value/6 1 20 0 0
+/answer/12/value/1 1 20 0 0
+/answer/581/value/1 1 20 0 0
+/answer/89/value/5 1 20 0 0
+/answer/930/value/2 1 20 0 0
+/section/3/7/edit 6 10353 0 0
+/answer/1009/value/0 18 360 0 0
+/answer/679/value/1 1 20 0 0
+/answer/155/value/6 1 20 0 0
+/answer/54/value/5 1 20 0 0
+/answer/410/value/5 1 20 0 0
+/answer/905/value/0 2 40 0 0
+/password/email 21 22851 0 2
+/answer/271/value/5 1 20 0 0
+/answer/318/value/10 1 20 0 0
+/answer/972/comments/Use%20them! 1 20 0 0
+/answer/300/value/10 1 20 0 0
+/answer/236/value/1 1 20 0 0
+/answer/579/value/1 1 20 0 0
+/crt/5 1 2856 0 0
+/answer/383/value/5 1 20 0 0
+/answer/35/value/2 1 20 0 0
+/answer/409/value/5 1 20 0 0
+/answer/226/value/1 3 60 0 0
+/answer/95/value/10 1 20 0 0
+/answer/314/value/10 1 20 0 0
+/answer/690/value/1 1 20 0 0
+/auth/register 8 4857 1 0
+/answer/368/value/5 1 20 0 0
+/section/9/2/edit 4 8519 0 0
+/answer/334/value/5 1 20 0 0
+/answer/393/value/3 1 20 0 0
+/answer/115/comments/test 1 20 0 0
+/answer/935/value/2 1 20 0 0
+/answer/950/value/5 1 20 0 0
+/answer/444/value/10 1 20 0 0
+/answer/923/value/10 1 20 0 0
+/answer/911/value/0 3 60 0 0
+/answer/73/value/5 1 20 0 0
+/answer/110/value/5 1 20 0 0
+/section/4/1/edit 6 12698 0 1
+/answer/903/value/1 1 20 0 0
+/answer/1047/value/0 1 20 0 0
+/answer/952/value/1 1 20 0 0
+/section/1/5/edit 4 7688 0 0
+/answer/373/value/5 1 20 0 0
+/answer/150/value/2 1 20 0 0
+/answer/116/value/1 1 20 0 0
+/answer/104/value/10 1 20 0 0
+/answer/971/value/5 1 20 0 0
+/answer/128/value/1 1 20 0 0
+/crt/10/edit 6 137325 0 0
+/answer/369/value/10 1 20 0 0
+/answer/87/value/10 1 20 0 0
+/section/11/1 1 797 0 0
+/answer/256/value/5 1 20 0 0
+/answer/786/comments 1 20 0 0
+/answer/339/comments/My%20comment%20is%20abc... 1 20 0 0
+/answer/431/value/6 1 20 0 0
+/section/9/1 7 5558 0 0
+/answer/114/comments/test 1 20 0 0
+/answer/343/value/1 1 20 0 0
+/answer/269/value/2 1 20 0 0
+/answer/84/value/5 1 20 0 0
+/answer/785/value/1 3 60 0 0
+/answer/322/value/15 1 20 0 0
+/answer/1009/comments/test 2 40 0 0
+/answer/335/value/10 1 20 0 0
+/answer/785/comments/ab 2 40 0 0
+/answer/680/value/1 1 20 0 0
+/answer/955/value/5 1 20 0 0
+/answer/97/value/5 1 20 0 0
+/answer/567/value/1 1 20 0 0
+/answer/5/value/1 1 20 0 0
+/answer/676/value/1 1 20 0 0
+/assets/css/bootstrap-select.css.map 9 6060 0 0
+/answer/970/value/5 1 20 0 0
+/section/3/7 5 4015 0 0
+/answer/25/value/10 1 20 0 0
+/answer/390/value/5 1 20 0 0
+/answer/915/value/1 1 20 0 0
+/answer/577/value/1 1 20 0 0
+/answer/196/value/5 1 20 0 0
+/answer/673/value/1 1 20 0 0
+/answer/1029/value/0 1 20 0 0
+/answer/432/value/4 1 20 0 0
+/answer/1041/value/10 1 20 0 0
+/answer/1036/value/0 1 20 0 0
+/answer/1025/value/0 1 20 0 0
+/answer/380/value/6 1 20 0 0
+/answer/786/value/1 1 20 0 0
+/answer/249/value/10 1 20 0 0
+/answer/795/value/1 1 20 0 0
+/section/2/3/edit 8 19344 0 0
+/answer/371/value/2 1 20 0 0
+/answer/958/value/0 1 20 0 0
+/answer/794/value/1 1 20 0 0
+/answer/360/value/1 1 20 0 0
+/auth/register/MPF 1 200 0 0
+/answer/119/value/1 1 20 0 0
+/answer/82/value/5 1 20 0 0
+/answer/378/value/6 1 20 0 0
+/answer/973/value/10 1 20 0 0
+/answer/1121/value/1 1 20 0 0
+/answer/566/value/1 1 20 0 0
+/answer/184/value/5 1 20 0 0
+/answer/684/value/1 1 20 0 0
+/crt/2 10 25702 0 0
+/answer/907/value/1 1 20 0 0
+/answer/130/value/1 1 20 0 0
+/answer/689/value/1 1 20 0 0
+/section/7/1/edit 1 2082 0 0
+/section/9/5 2 1594 0 0
+/answer/131/value/1 1 20 0 0
+/answer/398/value/5 1 20 0 0
+/answer/140/value/5 1 20 0 0
+/answer/389/value/2 1 20 0 0
+/answer/345/value/1 1 20 0 0
+/answer/401/value/10 1 20 0 0
+/answer/925/value/10 1 20 0 0
+/section/3/6 2 1601 0 0
+/answer/791/value/1 1 20 0 0
+/section/10/1 11 8743 0 0
+/answer/365/value/10 1 20 0 0
+/answer/932/value/2 1 20 0 0
+/answer/308/value/5 1 20 0 0
+/answer/316/value/5 1 20 0 0
+/answer/434/value/14 1 20 0 0
+/answer/800/value/1 1 20 0 0
+/answer/787/comments/c 1 20 0 0
+/answer/405/value/10 1 20 0 0
+/answer/173/value/5 1 20 0 0
+/auth/register/MFP 2 2081 0 0
+/answer/81/value/5 1 20 0 0
+/crt/10 15 42957 0 0
+/answer/336/value/5 1 20 0 0
+/section/8/6/edit 1 1765 0 0
+/section/6/3/edit 1 2253 0 0
+/answer/408/value/5 1 20 0 0
+/answer/906/value/1 1 20 0 0
+/answer/979/value/5 1 20 0 0
+/answer/564/value/1 1 20 0 0
+/answer/976/value/5 1 20 0 0
+/answer/281/value/3 1 20 0 0
+/answer/337/value/1 2 40 0 0
+/answer/233/value/1 1 20 0 0
+/answer/924/comments/Kitchen%20TM%20consistently%20wiped%20crumbs/debris%20from%20counter%20onto%20floor. 1 372 0 0
+/answer/367/value/10 1 20 0 0
+/answer/9/value/1 1 20 0 0
+/answer/227/value/1 1 20 0 0
+/answer/917/value/0 3 60 0 0
+/answer/1042/value/2 1 20 0 0
+/answer/24/value/10 1 20 0 0
+/answer/8/value/1 1 20 0 0
+/answer/242/value/1 1 20 0 0
+/section/2/4/edit 5 7990 0 0
+/answer/899/value/0 2 40 0 0
+/answer/359/value/1 1 20 0 0
+/answer/103/value/10 1 20 0 0
+/section/6/1 1 794 0 0
+/answer/151/value/2 1 20 0 0
+/answer/188/value/4 1 20 0 0
+/answer/803/actionRequired/0 1 20 0 0
+/answer/296/value/5 1 20 0 0
+/answer/347/value/1 1 20 0 0
+/answer/319/value/10 1 20 0 0
+/answer/448/value/5 1 20 0 0
+/answer/391/value/5 1 20 0 0
+/crt/6 4 8617 0 1
+/answer/195/value/5 1 20 0 0
+/answer/427/value/5 1 20 0 0
+/answer/317/value/10 1 20 0 0
+/answer/226/value/0 2 40 0 0
+/answer/901/value/0 2 40 0 0
+/answer/284/value/5 1 20 0 0
+/answer/115/value/1 1 20 0 0
+/answer/785/comments/b 3 60 0 0
+/answer/4/value/1 1 20 0 0
+/test.php 2 112 0 0
+/answer/573/value/1 1 20 0 0
+/answer/257/value/10 1 20 0 0
+/answer/914/value/1 1 20 0 0
+/answer/260/value/2 1 20 0 0
+/answer/964/value/15 1 20 0 0
+/answer/85/value/10 1 20 0 0
+/answer/446/value/5 1 20 0 0
+/answer/363/value/10 1 20 0 0
+/answer/108/value/10 1 20 0 0
+/answer/580/value/1 1 20 0 0
+/answer/693/value/1 1 20 0 0
+/answer/266/value/6 1 20 0 0
+/answer/1011/value/0 2 40 0 0
+/answer/370/value/2 1 20 0 0
+/answer/159/value/5 1 20 0 0
+/answer/117/value/1 1 20 0 0
+/answer/107/value/10 1 20 0 0
+/answer/694/value/1 1 20 0 0
+/answer/309/value/10 1 20 0 0
+/answer/330/value/5 1 20 0 0
+/section/3/4/edit 1 1597 0 0
+/crt/12/edit 1 23028 0 0
+/answer/803/value/1 1 20 0 0
+/answer/156/value/6 1 20 0 0
+/answer/1016/value/0 1 20 0 0
+/answer/789/value/1 1 20 0 0
+/answer/802/value/1 1 20 0 0
+/answer/1048/comments/test 1 20 0 0
+/answer/966/value/0 1 20 0 0
+/section/2/2/edit 9 16822 0 0
+/answer/253/value/10 1 20 0 0
+/answer/438/value/10 1 20 0 0
+/answer/447/value/10 1 20 0 0
+/crt/3 12 36751 0 1
+/answer/189/value/5 1 20 0 0
+/answer/929/value/10 1 20 0 0
+/section/4/1 5 3965 0 0
+/auth/register/DM 4 7642 0 0
+/answer/147/value/2 1 20 0 0
+/crt/11 2 5739 0 0
+/crt/7/edit 5 132861 0 0
+/answer/55/value/5 1 20 0 0
+/answer/16/value/1 1 20 0 0
+/answer/583/value/1 1 20 0 0
+/answer/267/value/6 1 20 0 0
+/answer/785/actionRequired/1 2 40 0 0
+/crt/9/edit 7 160470 0 0
+/answer/913/value/0 3 60 0 0
+/answer/1044/value/2 1 20 0 0
+/answer/348/value/1 1 20 0 0
+/answer/93/value/10 1 20 0 0
+/answer/303/value/10 1 20 0 0
+/answer/77/value/10 1 20 0 0
+/answer/30/value/10 1 20 0 0
+/answer/946/value/5 1 20 0 0
+/fixtures 1 45 0 0
+/section/10/2 3 2394 0 0
+/answer/141/value/5 1 20 0 0
+/answer/928/value/5 1 20 0 0
+/answer/974/value/10 1 20 0 0
+/answer/906/value/0 2 40 0 0
+/answer/910/value/1 1 20 0 0
+/section/4/6/edit 2 3232 0 0
+/answer/39/value/2 1 20 0 0
+/answer/1038/value/0 1 20 0 0
+/answer/323/value/2 2 40 0 0
+/answer/798/value/1 1 20 0 0
+/answer/394/value/5 1 20 0 0
+/answer/114/comments 1 20 0 0
+/answer/250/value/5 1 20 0 0
+/answer/422/value/5 1 20 0 0
+/answer/246/value/1 1 20 0 0
+/answer/990/value/10 1 20 0 0
+/answer/908/value/0 2 40 0 0
+/answer/924/value/5 1 20 0 0
+/answer/940/value/6 1 20 0 0
+/answer/911/value/1 1 20 0 0
+/answer/229/value/1 1 20 0 0
+/answer/400/value/10 1 20 0 0
+/answer/129/value/1 1 20 0 0
+/answer/787/comments 1 20 0 0
+/answer/113/comments/test1 1 20 0 0
+/answer/124/value/1 1 20 0 0
+/answer/13/value/1 1 20 0 0
+/answer/40/value/6 1 20 0 0
+/answer/197/value/10 1 20 0 0
+/answer/954/value/5 1 20 0 0
+/answer/234/value/1 1 20 0 0
+/answer/430/value/6 1 20 0 0
+/answer/426/value/10 1 20 0 0
+/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular-.eot 1 20335 0 0
+/answer/574/value/1 1 20 0 0
+/answer/80/value/5 1 20 0 0
+/section/1/2 1 797 0 0
+/answer/122/value/1 1 20 0 0
+/answer/403/value/10 1 20 0 0
+/answer/578/value/1 1 20 0 0
+/answer/247/value/1 1 20 0 0
+/answer/436/value/5 1 20 0 0
+/answer/342/value/1 1 20 0 0
+/answer/1010/value/0 1 20 0 0
+/answer/899/value/1 1 20 0 0
+/answer/1009/comments/testa 2 40 0 0
+/answer/65/value/10 1 20 0 0
+/section/11/1/edit 1 2199 0 0
+/answer/985/value/5 1 20 0 0
+/answer/295/value/10 1 20 0 0
+/section/2/2 2 1596 0 0
+/answer/53/value/2 1 20 0 0
+/answer/340/value/1 1 20 0 0
+/answer/900/value/0 2 40 0 0
+/answer/125/value/1 1 20 0 0
+/answer/252/value/5 1 20 0 0
+/answer/806/value/1 1 20 0 0
+/assets/fonts/font-awesome/fonts/fontawesome-webfont-.eot 7 280030 0 0
+/answer/412/value/10 1 20 0 0
+/answer/172/value/5 1 20 0 0
+/answer/6/value/1 1 20 0 0
+/answer/244/value/1 1 20 0 0
+/answer/287/value/15 1 20 0 0
+/section/4/4/edit 2 3220 0 0
+/answer/970/value/0 1 20 0 0
+/answer/225/value/1 1 20 0 0
+/answer/396/value/5 1 20 0 0
+/answer/149/value/5 1 20 0 0
+/answer/926/comments/Mgr%20walked%20by%20TM%20wiping%20crumbs%20on%20floor%20without%20commenting. 1 20 0 0
+/answer/442/value/5 1 20 0 0
+/answer/951/value/5 1 20 0 0
+/answer/937/value/6 1 20 0 0
+/answer/682/value/1 1 20 0 0
+/section/9/3/edit 1 2586 0 0
+/answer/349/value/1 1 20 0 0
+/section/3/6/edit 2 3270 0 0
+/section/1/5 2 1592 0 0
+/answer/417/value/5 1 20 0 0
+/section/1/6/edit 2 3228 0 0
+/answer/160/value/2 1 20 0 0
+/section/8/2/edit 8 16152 0 0
+/answer/1020/comments/Perfecto! 1 20 0 0
+/answer/148/value/2 1 20 0 0
+/answer/60/value/5 1 20 0 0
+/section/2/5 1 796 0 0
+/section/2/5/edit 5 9742 0 0
+/answer/360/value/10 1 20 0 0
+/answer/965/value/10 1 20 0 0
+/answer/424/value/10 1 20 0 0
+/password/reset/e3756d0f39437c99460303ff63a30bbeb06dcc44fcc8b0cc62a9737f67d1c68b 1 1873 0 0
+/answer/91/value/5 1 20 0 0
+/answer/75/value/5 1 20 0 0
+/answer/918/value/1 1 20 0 0
+/answer/323/value/1 3 60 0 0
+/answer/237/value/1 1 20 0 0
+/answer/61/value/5 1 20 0 0
+/section/3/1/edit 1 2082 0 0
+/answer/687/value/1 1 20 0 0
+/answer/899/comments/NIce%20job%20in%20how%20this%20is%20organized. 1 20 0 0
+/answer/127/value/1 1 20 0 0
+/answer/277/value/2 1 20 0 0
+/section/3/3/edit 1 2254 0 0
+/section/2/7/edit 1 1723 0 0
+/answer/289/value/5 1 20 0 0
+/answer/1017/value/0 1 20 0 0
+/answer/231/value/1 1 20 0 0
+/section/10/3/edit 4 10423 0 0
+/answer/31/value/10 1 20 0 0
+/answer/298/value/5 1 20 0 0
+/answer/239/value/1 1 20 0 0
+/answer/688/value/1 1 20 0 0
+/answer/90/value/10 1 20 0 0
+/answer/263/value/2 1 20 0 0
+/answer/320/value/5 1 20 0 0
+/answer/138/value/5 1 20 0 0
+/section/10/5/edit 2 4252 0 0
+/answer/258/value/2 1 20 0 0
+/answer/1043/value/2 1 20 0 0
+/answer/324/value/1 1 20 0 0
+/answer/674/value/1 1 20 0 0
+/answer/240/value/1 1 20 0 0
+/answer/333/value/5 1 20 0 0
+/answer/10/value/1 1 20 0 0
+/answer/259/value/2 1 20 0 0
+/answer/944/value/2 1 20 0 0
+/answer/362/value/5 1 20 0 0
+/answer/321/value/4 1 20 0 0
+/answer/785/comments 12 3056 0 0
+/answer/243/value/1 1 20 0 0
+/answer/338/value/1 1 20 0 0
+/section/3/5 1 796 0 0
+/answer/109/value/5 1 20 0 0
+/answer/425/value/5 1 20 0 0
+/answer/282/value/5 1 20 0 0
+/crt/1 8 23301 0 0
+/answer/981/value/10 1 20 0 0
+/answer/916/value/1 1 20 0 0
+/answer/113/value/1 3 60 0 0
+/answer/392/value/1 1 20 0 0
+/answer/57/value/3 1 20 0 0
+/answer/113/comments 1 20 0 0
+/answer/569/value/1 1 20 0 0
+/answer/83/value/5 1 20 0 0
+/answer/429/value/6 1 20 0 0
+/crt/approve/1 1 23 0 0
+/answer/14/value/1 1 20 0 0
+/answer/68/value/15 1 20 0 0
+/assets/fonts/circle-frame/circle-frame-negative-mt-1361548299-webfont.woff 2 1452 0 0
+/answer/133/value/1 1 20 0 0
+/answer/232/value/1 1 20 0 0
+/answer/364/value/5 1 20 0 0
+/answer/137/value/10 1 20 0 0
+/section/6/1/edit 1 2081 0 0
+/answer/988/value/5 1 20 0 0
+/section/4/3 1 796 0 0
+/answer/280/value/1 1 20 0 0
+/answer/49/value/5 1 20 0 0
+/answer/443/value/10 1 20 0 0
+/answer/807/value/0 1 20 0 0
+/answer/799/value/1 1 20 0 0
+/answer/416/value/5 1 20 0 0
+/answer/1031/value/0 1 20 0 0
+/answer/428/value/4 1 20 0 0
+/answer/135/value/1 1 20 0 0
+/answer/382/value/3 1 20 0 0
+/answer/805/value/1 1 20 0 0
+/answer/47/value/5 1 20 0 0
+/answer/1022/value/0 1 20 0 0
+/section/9/5/edit 2 4334 0 0
+/answer/106/value/5 1 20 0 0
+/answer/1027/value/0 1 20 0 0
+/answer/982/value/5 1 20 0 0
+/answer/357/value/1 1 20 0 0
+/answer/169/value/3 1 20 0 0
+/answer/420/value/5 1 20 0 0
+/answer/926/value/0 1 20 0 0
+/answer/268/value/6 1 20 0 0
+/answer/88/value/10 1 20 0 0
+/answer/17/value/1 1 20 0 0
+/answer/987/value/5 1 20 0 0
+/answer/310/value/5 1 20 0 0
+/answer/118/value/1 1 20 0 0
+/answer/788/value/1 1 20 0 0
+/answer/677/value/1 1 20 0 0
+/answer/991/value/10 1 20 0 0
+/answer/274/value/5 1 20 0 0
+/answer/898/value/0 2 40 0 0
+/section/9/4/edit 2 3462 0 0
+/answer/279/value/5 1 20 0 0
+/answer/291/value/10 1 20 0 0
+/answer/297/value/5 1 20 0 0
+/password/reset/1d78ce2b74fd685093bca7008a0562e0bac3ee5463b84fff21820279f010aefa 1 1230 0 0
+/answer/354/value/1 1 20 0 0
+/answer/801/value/1 1 20 0 0
+/answer/683/value/1 1 20 0 0
+/answer/328/value/10 1 20 0 0
+/answer/921/value/10 1 20 0 0
+/answer/307/value/5 1 20 0 0
+/password/reset 5 1000 0 0
+/answer/33/value/10 1 20 0 0
+/answer/975/value/10 1 20 0 0
+/section/9/6 1 796 0 0
+/answer/142/value/5 1 20 0 0
+/answer/413/value/10 1 20 0 0
+/assets/fonts/font-awesome/fonts/fontawesome-webfont-v=4.2.0.woff 20 1047232 0 0
+/answer/376/value/6 1 20 0 0
+/crt/certify/1 1 23 0 0
+/answer/563/value/1 1 20 0 0
+/answer/29/value/10 1 20 0 0
+/answer/909/value/1 1 20 0 0
+/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff 10 139920 0 1
+/answer/1019/value/0 1 20 0 0
+/answer/681/value/1 1 20 0 0
+/answer/293/value/10 1 20 0 0
+/answer/46/value/3 1 20 0 0
+/crt/6/edit 3 86873 0 0
+/answer/56/value/1 1 20 0 0
+/answer/435/value/5 1 20 0 0
+/answer/1032/value/10 2 40 0 0
+/answer/415/value/10 1 20 0 0
+/answer/331/value/10 1 20 0 0
+/answer/411/value/5 1 20 0 0
+/answer/26/value/5 1 20 0 0
+/answer/350/value/1 1 20 0 0
+/answer/344/value/1 1 20 0 0
+/crt/approve/4 1 23 0 0
+/answer/897/value/1 1 20 0 0
+/answer/321/value/5 1 20 0 0
+/answer/64/value/10 1 20 0 0
+/answer/1032/value/0 1 20 0 0
+/answer/787/value/1 1 20 0 0
+/answer/927/value/10 1 20 0 0
+/answer/919/value/0 3 60 0 0
+/answer/255/value/10 1 20 0 0
+/answer/437/value/5 1 20 0 0
+/answer/1035/value/10 1 20 0 0
+/answer/265/value/6 1 20 0 0
+/answer/377/value/6 1 20 0 0
+/section/2/4 1 796 0 0
+/section/9/3 1 797 0 0
+/answer/94/value/10 1 20 0 0
+/answer/914/value/0 3 60 0 0
+/answer/803/actionRequired/1 1 20 0 0
+/answer/42/value/6 1 20 0 0
+/section/9/6/edit 1 1763 0 0
+/crt/7 2 5695 0 0
+/answer/113/value/0 2 40 0 0
+/answer/912/value/0 3 60 0 0
+/answer/161/value/5 1 20 0 0
+/answer/372/value/2 1 20 0 0
+/answer/374/value/2 1 20 0 0
+/answer/381/value/2 1 20 0 0
+/answer/355/value/1 1 20 0 0
+/answer/1020/value/0 1 20 0 0
+/answer/32/value/5 1 20 0 0
+/answer/28/value/5 1 20 0 0
+/section/4/4 1 796 0 0
+/answer/1024/value/0 1 20 0 0
+/answer/366/value/10 1 20 0 0
+/answer/273/value/5 1 20 0 0
+/answer/290/value/10 1 20 0 0
+/section/8/5/edit 1 2132 0 0
+/answer/114/value/1 1 20 0 0
+/answer/1010/comments/n 1 20 0 0
+/answer/20/value/1 1 20 0 0
+/answer/251/value/10 1 20 0 0
+/assets/fonts/circle-frame/circle-frame-negative-mt-1361548299-webfont.ttf 2 35744 0 0
+/answer/1/value/1 1 20 0 0
+/answer/191/value/6 1 20 0 0
+/answer/34/value/2 1 20 0 0
+/answer/315/value/5 1 20 0 0
+/answer/423/value/10 1 20 0 0
+/section/4/5/edit 4 7680 0 0
+/answer/230/value/1 1 20 0 0
+/section/9/7/edit 2 3872 0 0
+/answer/902/value/1 1 20 0 0
+/answer/384/value/2 1 20 0 0
+/section/1/1/edit 1 2071 0 0
+/answer/123/value/1 1 20 0 0
+/answer/27/value/10 1 20 0 0
+/answer/571/value/1 1 20 0 0
+/answer/898/value/1 1 20 0 0
+/answer/134/value/1 1 20 0 0
+/answer/959/value/15 1 20 0 0
+/answer/193/value/5 1 20 0 0
+/answer/908/value/1 1 20 0 0
+/answer/157/value/2 1 20 0 0
+/answer/37/value/5 1 20 0 0
+/crt/certify/4 1 23 0 0
+/pruebalaravel/public/ 2 40 1 1
+/crt/1/edit 3 121258 0 0
+/answer/983/value/10 1 20 0 0
+/answer/198/value/5 1 20 0 0
+/answer/678/value/1 1 20 0 0
+/answer/275/value/5 1 20 0 0
+/answer/986/value/10 1 20 0 0
+/crt/approve/3 1 23 0 0
+/answer/304/value/5 1 20 0 0
+/answer/966/value/10 1 20 0 0
+/answer/958/comments/Only%20saw%20a%20Mgr%20look%20at%20hold%20times%20in%20condiment%20once%20within%20a%204%20hour%20time%20period. 1 20 0 0
+/answer/916/value/0 3 60 0 0
+/answer/262/value/2 1 20 0 0
+/answer/79/value/10 1 20 0 0
+/crt/public/ 2 40 0 0
+/answer/439/value/10 1 20 0 0
+/answer/341/value/1 1 20 0 0
+/answer/980/value/5 1 20 0 0
+/answer/949/value/2 1 20 0 0
+/answer/961/value/10 1 20 0 0
+/answer/600/value/1 1 20 0 0
+/section/1/1 1 793 0 0
+/answer/261/value/5 1 20 0 0
+/answer/143/value/5 1 20 0 0
+/answer/3/value/1 1 20 0 0
+/answer/565/value/1 1 20 0 0
+/answer/186/value/5 1 20 0 0
+/answer/300/value/5 1 20 0 0
+/answer/901/value/1 1 20 0 0
+/answer/972/actionRequired/1 1 20 0 0
+/answer/164/value/2 1 20 0 0
+/answer/78/value/10 1 20 0 0
+/answer/938/value/6 1 20 0 0
+/answer/786/comments/c 1 20 0 0
+/answer/153/value/6 1 20 0 0
+/answer/1009/comments/testaa 1 20 0 0
+/answer/947/value/5 1 20 0 0
+/answer/62/value/5 1 20 0 0
+/answer/388/value/2 1 20 0 0
+/answer/572/value/1 1 20 0 0
+/crt/3/edit 14 474246 0 0
+/answer/1033/value/0 1 20 0 0
+/answer/120/value/1 1 20 0 0
+/answer/562/value/1 1 20 0 0
+/answer/414/value/10 1 20 0 0
+/answer/162/value/5 1 20 0 0
+/answer/977/value/5 1 20 0 0
+/answer/58/value/5 1 20 0 0
+/answer/785/value/0 5 100 0 0
+/password/reset/cba0279f0f9b4e816ced3e15b6088d4a74440a048583d3cc01699835ff1e0744 1 1876 0 0
+/answer/63/value/15 1 20 0 0
+/answer/956/value/5 1 20 0 0
+/answer/561/value/1 1 20 0 0
+/answer/292/value/15 1 20 0 0
+/answer/276/value/2 1 20 0 0
+/answer/913/value/1 1 20 0 0
+/answer/299/value/5 1 20 0 0
+/answer/897/value/0 2 40 0 0
+/section/4/5 2 1592 0 0
+/answer/792/value/1 1 20 0 0
+/answer/406/value/10 1 20 0 0
+/answer/278/value/5 1 20 0 0
+/section/9/2 3 2394 0 0
+/answer/306/value/5 1 20 0 0
+/answer/288/value/10 1 20 0 0
+/answer/101/value/5 1 20 0 0
+/answer/21/value/1 1 20 0 0
+/answer/264/value/6 1 20 0 0
+/answer/407/value/10 1 20 0 0
+/answer/158/value/3 1 20 0 0
+/answer/900/value/1 1 20 0 0
+/section/1/4/edit 1 1597 0 0
+/section/9/4 2 1594 0 0
+/section/2/6 3 2388 0 0
+/answer/305/value/5 1 20 0 0
+/answer/174/value/5 1 20 0 0
+/section/4/3/edit 3 6789 0 0
+/answer/190/value/5 1 20 0 0
+/answer/285/value/5 1 20 0 0
+/section/9/1/edit 8 17989 0 1
+/answer/962/value/10 1 20 0 0
+/answer/41/value/6 1 20 0 0
+/answer/112/value/5 1 20 0 0
+/answer/904/value/0 2 40 0 0
+/answer/154/value/6 1 20 0 0
+/answer/339/value/1 1 20 0 0
+/answer/387/value/5 1 20 0 0
+/answer/785/comments/abc 2 40 0 0
+/answer/194/value/5 1 20 0 0
+/answer/165/value/2 1 20 0 0
+/answer/322/value/5 1 20 0 0
+/answer/945/value/5 1 20 0 0
+/answer/440/value/10 1 20 0 0
+/answer/691/value/1 1 20 0 0
+/answer/897/comments/Everything%20looks%20good. 1 20 0 0
+/answer/1046/value/0 1 20 0 0
+/answer/1015/value/0 1 20 0 0
+/section/4/7/edit 1 1695 0 0
+/answer/902/value/0 2 40 0 0
+/answer/286/value/5 1 20 0 0
+/answer/92/value/5 1 20 0 0
+/section/3/5/edit 1 1917 0 0
+/answer/397/value/5 1 20 0 0
+/section/2/1 4 3172 0 0
+/answer/796/value/1 1 20 0 0
+/answer/1037/value/10 1 20 0 0
+/answer/785/comments/c 1 20 0 0
+/answer/968/value/5 1 20 0 0
+/answer/1045/value/5 1 20 0 0
+/answer/248/value/10 1 20 0 0
+/answer/86/value/5 1 20 0 0
+/answer/66/value/10 1 20 0 0
+/answer/59/value/5 1 20 0 0
+/crt/11/edit 1 23021 0 0
+/answer/936/value/6 1 20 0 0
+/answer/912/value/1 1 20 0 0
+/answer/44/value/6 1 20 0 0
+/answer/909/value/0 3 60 0 0
+/answer/270/value/3 1 20 0 0
+/answer/385/value/5 1 20 0 0
+/answer/395/value/5 1 20 0 0
+/answer/804/value/0 1 20 0 0
+/section/10/1/edit 21 47262 0 0
+/answer/1018/value/0 1 20 0 0
+/answer/18/value/1 1 20 0 0
+/answer/1034/value/5 1 20 0 0
+/answer/11/value/1 1 20 0 0
+/answer/969/value/5 1 20 0 0
+/answer/797/value/1 1 20 0 0
+/answer/302/value/5 1 20 0 0
+/answer/327/value/10 1 20 0 0
+/section/1/3/edit 1 2247 0 0
+/answer/168/value/1 1 20 0 0
+/answer/943/value/5 1 20 0 0
+/answer/575/value/1 1 20 0 0
+/answer/136/value/10 1 20 0 0
+/section/1/2/edit 2 3613 0 0
+/answer/228/value/1 1 20 0 0
+/answer/312/value/10 1 20 0 0
+/section/2/6/edit 5 8105 0 0
+/answer/402/value/10 1 20 0 0
+/answer/386/value/5 1 20 0 0
+/answer/139/value/5 1 20 0 0
+/answer/957/value/5 1 20 0 0
+/answer/675/value/1 1 20 0 0
+/answer/939/value/6 1 20 0 0
+/answer/918/value/0 3 60 0 0
+/answer/167/value/5 1 20 0 0
+/answer/445/value/5 1 20 0 0
+/answer/152/value/6 1 20 0 0
+/answer/934/comments/Piles%20of%20papers%20in%20a%20disorganized%20manner%20all%20over%20the%20office%20desk%20and%20floor. 1 20 0 0
+/answer/48/value/2 1 20 0 0
+/answer/963/value/0 1 20 0 0
+/answer/238/value/1 1 20 0 0
+/answer/7/value/1 1 20 0 0
+/answer/421/value/10 1 20 0 0
+/password/reset/7b7b8c2defe9eb23abe9140e193f625e1b5e5c6e6318e78b08d90b9ee045a95e 1 1875 0 0
+/answer/903/value/0 2 40 0 0
+/answer/807/value/1 2 40 0 0
+/answer/166/value/5 1 20 0 0
+/section/7/1 1 794 0 0
+/crt/9 15 42664 0 0
+/answer/561/value/0 1 20 0 0
+/answer/686/value/1 1 20 0 0
+/answer/1012/value/0 2 40 0 0
+/answer/36/value/2 1 20 0 0
+/answer/185/value/5 1 20 0 0
+/answer/245/value/1 1 20 0 0
+/answer/163/value/5 1 20 0 0
+/answer/113/comments/test 1 20 0 0
+/answer/994/value/15 1 20 0 0
+/answer/924/value/0 1 20 0 0
+/answer/301/value/5 1 20 0 0
+/answer/98/value/15 1 20 0 0
+/answer/941/value/2 1 20 0 0
+/section/2/7 1 803 0 0
+/answer/922/value/5 1 20 0 0
+/answer/187/value/1 1 20 0 0
+/answer/137/value/4 1 20 0 0
+/answer/904/value/1 1 20 0 0
+/answer/353/value/1 1 20 0 0
+/answer/953/value/3 1 20 0 0
+/password/reset/554b778a60ae79849ecca000914ffeb8ae4086023cf971408c4f2f5efe9b6494 1 1875 0 0
+/answer/24/comments/Check%20again 1 20 0 0
+/answer/907/value/0 2 40 0 0
+/section/10/2/edit 11 22821 0 0
+/answer/45/value/2 1 20 0 0
+/answer/22/value/1 1 20 0 0
+/answer/942/value/3 1 20 0 0
+/answer/2/value/1 1 20 0 0
+/answer/685/value/1 1 20 0 0
+/answer/1013/value/0 2 40 0 0
+/answer/1021/value/0 1 20 0 0
+/answer/114/comments/test2 1 20 0 0
+/answer/948/value/2 1 20 0 0
+/section/3/2/edit 1 1793 0 0
+/answer/1030/value/0 1 20 0 0
+/answer/192/value/5 1 20 0 0
+/section/10/5 1 796 0 0
+/answer/105/value/5 1 20 0 0
+/answer/1028/value/0 1 20 0 0
+/assets/fonts/circle-frame/circle-frame-negative-mt-1361548299-webfont.eot 7 41155 0 0
+/section/2/1/edit 10 21528 0 0
+/answer/171/value/5 1 20 0 0
+/answer/399/value/15 1 20 0 0
+/answer/972/value/10 1 20 0 0
+/answer/254/value/10 1 20 0 0
+/section/4/2/edit 3 5403 0 0
+/answer/441/value/5 1 20 0 0
+/section/1/7 1 803 0 0
+END_SIDER

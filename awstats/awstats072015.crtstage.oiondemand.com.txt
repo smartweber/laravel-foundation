@@ -1,0 +1,466 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201507 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.crtstage.oiondemand.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2003                
+POS_TIME 2675                
+POS_VISITOR 7177                
+POS_DAY 7306                
+POS_DOMAIN 3257                
+POS_LOGIN 3490                
+POS_ROBOT 4971                
+POS_WORMS 5103                
+POS_EMAILSENDER 5234                
+POS_EMAILRECEIVER 5377                
+POS_SESSION 7636                
+POS_SIDER 7821                
+POS_FILETYPES 5512                
+POS_DOWNLOADS 5749                
+POS_OS 5797                
+POS_BROWSER 5849                
+POS_SCREENSIZE 5912                
+POS_UNKNOWNREFERER 5986                
+POS_UNKNOWNREFERERBROWSER 6073                
+POS_ORIGIN 6155                
+POS_SEREFERRALS 6290                
+POS_PAGEREFS 6434                
+POS_SEARCHWORDS 6582                
+POS_KEYWORDS 6734                
+POS_MISC 2338                
+POS_ERRORS 6793                
+POS_CLUSTER 3346                
+POS_SIDER_404 6868                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150803173936 1 0 5837250586591
+FirstTime 20150701093824
+LastTime 20150720143217
+LastUpdate 20150803174003 1 0 0 0 0
+TotalVisits 17                  
+TotalUnique 1                   
+MonthHostsKnown 1                   
+MonthHostsUnknown 0                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 70 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 49 292 1976715 0 5 0
+10 141 289 454719 0 4 0
+11 16 50 26218 0 1 0
+12 143 725 2406607 0 27 0
+13 145 630 923916 0 16 0
+14 26 126 307007 0 2 0
+15 46 150 943716 0 2 0
+16 16 93 1078250 0 1 0
+17 99 413 2478186 0 6 0
+18 69 303 1893401 0 4 0
+19 27 109 132762 0 2 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 11 51 21415 0 0 0
+23 3 3 44760 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+com 791 3234 12687672
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 26
+"12.219.60.242"_-_- 634 2438 4965644 20150720143217
+"208.71.189.3"_-_- 113 434 2090532 20150702143059
+"75.40.212.47"_-_- 11 53 805212 20150716175421
+"67.163.36.119"_-_- 9 63 42840 20150710145207
+"70.39.157.194"_-_- 6 10 195034 20150716182131
+"209.133.77.171"_-_- 4 16 583276 20150716182131
+"209.133.77.169"_-_- 2 8 291638 20150716181219
+"83.223.122.14"_-_- 2 8 291638 20150716182132
+"89.145.108.206"_-_- 2 8 291638 20150716175900
+"70.39.157.196"_-_- 2 4 148996 20150716182131
+"12.219.60.242,_66.249.81.185"_-_- 1 10 26385 20150707122412
+"70.39.157.197"_-_- 0 5 358995 20150716182131
+"70.39.157.192"_-_- 0 2 101486 20150716182131
+"54.152.36.54"_-_- 0 124 1193004 20150721182536
+"12.219.60.242,_66.249.81.173"_-_- 0 4 23378 20150707122412
+"12.219.60.242,_66.249.83.128"_-_- 1 1 1971 20150702121259
+"70.39.157.198"_-_- 0 2 131532 20150716181220
+"70.39.157.193"_-_- 0 3 76757 20150716182131
+"12.219.60.242,_66.249.81.181"_-_- 0 11 512979 20150707122412
+"12.219.60.242,_66.249.83.163"_-_- 1 1 1973 20150707121351
+"83.223.122.15"_-_- 2 8 291638 20150716174728
+"70.39.157.199"_-_- 0 4 142642 20150716182131
+"12.219.60.242,_66.249.83.187"_-_- 1 1 1966 20150708090914
+"12.219.60.242,_66.249.81.190"_-_- 0 10 92879 20150707122412
+"12.219.60.242,_66.249.81.177"_-_- 0 4 12529 20150707122412
+"70.39.157.195"_-_- 0 2 11110 20150716181220
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+eot 3 84572 0 0
+css 1125 1001672 0 0
+png 239 4226391 0 0
+woff 49 598084 0 0
+woff2 12 66060 0 0
+php 106 321899 0 0
+map 4 9090 0 0
+js 1079 3763672 0 0
+Unknown 617 2616232 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 1
+Unknown 3234
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 1
+Unknown 3234
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 0 0
+From1 791 3234
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1
+crtstage.oiondemand.com 791 3234 12687672 20150720143217
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 11
+20150701 134 517 3219523 3
+20150702 133 653 849094 1
+20150707 110 352 2072119 3
+20150708 147 335 464903 1
+20150709 18 27 186618 2
+20150710 2 42 5426 1
+20150714 10 54 43008 1
+20150716 205 1089 4925815 2
+20150717 16 18 32042 2
+20150720 16 125 677462 1
+20150721 0 22 211662 0
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+1h+ 7
+5mn-15mn 3
+15mn-30mn 3
+30s-2mn 2
+0s-30s 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 194
+/auth/login 111 289259 3 3
+/ 106 321899 11 1
+/crt 59 182781 0 0
+/crt/create 47 1084198 0 3
+/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff 36 139920 0 2
+/home 27 108936 0 0
+/restaurants/getMfpDfp/111 24 960 0 0
+/crt/28 16 44532 0 0
+/crt/5 15 45821 0 1
+/restaurants/getMfpDfp/88 14 560 0 0
+/answer/2469/value/1 1 20 0 0
+/crt/28/edit 6 247718 0 0
+/assets/fonts/font-awesome/fonts/fontawesome-webfont-v=4.2.0.eot 1 56006 0 0
+/crt/5/edit 8 38616 1 1
+/section/28/3/edit 3 9159 0 0
+/answer/2844/value/6 1 20 0 0
+/crt/41 2 2792 0 0
+/answer/2834/value/2 1 20 0 0
+/section/7/1/edit 4 10330 0 0
+/answer/2829/value/10 1 20 0 0
+/answer/2867/value/10 1 20 0 0
+/answer/2883/value/5 1 20 0 0
+/answer/2472/value/1 1 20 0 0
+/answer/2474/value/1 1 20 0 0
+/restaurants/getMfpDfp/10191 1 38 0 0
+/answer/2870/value/10 1 20 0 0
+/answer/2825/value/10 1 20 0 0
+/section/23/1 9 7146 0 0
+/answer/2874/value/5 1 20 0 0
+/restaurants/MfpDfp/111 1 372 0 0
+/answer/2485/value/1 1 20 0 0
+/answer/2841/value/6 2 40 0 0
+/answer/2862/value/5 1 20 0 0
+/section/28/6 1 796 0 0
+/assets/fonts/circle-frame/circle-frame-negative-mt-1361548299-webfont.woff2 12 66060 0 0
+/section/7/4/edit 1 1980 0 1
+/section/28/1/edit 4 10598 0 0
+/answer/2877/value/10 1 20 0 0
+/section/28/1 4 3176 0 0
+/password/reset/0474e9d5f1aa3197ec802dd4db1ba1745c7f8bc2b35b80cec4bb99215fa3b8d4 1 1974 0 0
+/section/28/3 1 797 0 0
+/answer/2892/value/5 1 20 0 0
+/answer/2801/value/1 2 40 0 0
+/answer/2888/value/10 1 20 0 0
+/answer/2470/value/1 1 20 0 0
+/restaurants/getMfpDfp/0 1 38 0 0
+/answer/2895/value/10 1 20 0 0
+/answer/2832/value/5 1 20 0 0
+/section/28/4 1 797 0 0
+/crt/3/edit 1 41262 0 0
+/crt/30 2 2912 0 0
+/answer/2831/value/10 1 20 0 0
+/answer/2483/value/1 1 20 0 0
+/crt/21/edit 2 46044 0 0
+/crt/36 3 8672 0 1
+/answer/2476/value/1 1 20 0 0
+/answer/2871/value/10 1 20 0 0
+/section/7/3/edit 2 6092 0 0
+/answer/2850/value/5 1 20 0 0
+/section/28/2/edit 6 14675 0 0
+/auth/logout 10 1980 0 0
+/answer/2879/value/10 1 20 0 0
+/answer/2857/value/3 1 20 0 0
+/answer/2835/value/2 1 20 0 0
+/answer/2241/value/1 2 40 0 0
+/answer/2864/value/10 1 20 0 0
+/answer/2869/value/10 1 20 0 0
+/answer/2863/value/15 1 20 0 0
+/crt/2/edit 1 41260 0 1
+/section/23/5/edit 1 2175 0 0
+/loginas/75 2 400 0 0
+/crt/36/edit 1 23344 0 0
+/answer/2465/value/0 5 100 0 0
+/answer/2896/value/5 1 20 0 0
+/answer/2889/value/5 1 20 0 0
+/answer/2486/value/1 1 20 0 0
+/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot 1 20335 0 0
+/answer/2854/value/5 1 20 0 0
+/section/7/2/edit 3 7203 0 0
+/loginas/88 1 370 0 0
+/answer/2843/value/6 1 20 0 0
+/answer/2893/value/10 1 20 0 0
+/answer/2873/value/5 1 20 0 0
+/answer/2882/value/5 1 20 0 0
+/answer/2891/value/5 1 20 0 0
+/restaurants/getMfpDfp/81 1 40 0 0
+/answer/2471/value/1 1 20 0 0
+/answer/2475/value/1 1 20 0 0
+/answer/2478/value/1 1 20 0 0
+/answer/2881/value/5 1 20 0 0
+/answer/2897/value/5 1 20 0 0
+/answer/2479/value/1 1 20 0 0
+/password/email 4 5809 0 0
+/restaurants/getMfpDfp/87 4 160 0 0
+/crt/26/edit 2 26247 0 0
+/loginas/1 1 200 0 0
+/section/2/1 1 793 0 0
+/answer/2855/value/5 1 20 0 0
+/restaurants/getMfpDfp/11106 1 38 0 0
+/answer/2846/value/3 1 20 0 0
+/crt/39/edit 1 2067 0 0
+/section/23/1/edit 10 24284 0 0
+/auth/register/DM 2 2155 0 0
+/section/18/1 2 1588 0 0
+/answer/2481/value/1 1 20 0 0
+/restaurants/getMfpDfp/880 1 38 0 0
+/crt/7/edit 1 41279 0 0
+/restaurants/getMfpDfp/1004 1 38 0 0
+/answer/2872/value/5 1 20 0 0
+/answer/2847/value/5 1 20 0 0
+/answer/2842/value/6 1 20 0 0
+/section/23/4/edit 1 1752 0 0
+/answer/2890/value/10 1 20 0 0
+/auth/register 1 200 0 0
+/section/28/5 1 797 0 0
+/answer/2887/value/10 1 20 0 0
+/loginas/80 1 200 0 0
+/password/reset 1 200 0 0
+/section/21/1 1 794 0 0
+/answer/2487/value/1 1 20 0 0
+/answer/2833/value/10 1 20 0 0
+/answer/2830/value/10 1 20 0 0
+/assets/fonts/font-awesome/fonts/fontawesome-webfont-v=4.2.0.woff 13 458164 0 0
+/answer/2885/value/10 1 20 0 0
+/answer/2836/value/2 1 20 0 0
+/answer/2852/value/2 1 20 0 0
+/crt/15/edit 2 46174 0 1
+/crt/approve/28 2 3096 0 0
+/section/28/6/edit 1 2101 0 0
+/crt/6/edit 2 4179 0 0
+/password/reset/acf9759508d1fe5342427cf31e94a4ffa9910275ca8cf8236aae5f81f39c24ab 2 3944 1 0
+/answer/2865/value/10 1 20 0 0
+/crt/16 2 48 0 0
+/loginas/8 1 200 0 0
+/section/28/5/edit 1 2496 0 0
+/answer/2884/value/5 1 20 0 0
+/answer/2868/value/15 1 20 0 0
+/answer/2467/value/1 1 20 0 0
+/crt/23/edit 2 64343 0 0
+/answer/2894/value/10 1 20 0 0
+/answer/2473/value/1 1 20 0 0
+/crt/39 1 2782 0 0
+/answer/2876/value/10 1 20 0 0
+/crt/24 4 7182 1 0
+/section/7/1 4 3176 0 0
+/answer/2484/value/1 1 20 0 0
+/section/23/3/edit 2 5268 0 0
+/answer/2860/value/5 1 20 0 0
+/section/18/1/edit 2 5424 0 0
+/restaurants/getMfpDfp/1 7 285 0 0
+/answer/2838/value/2 1 20 0 0
+/section/18/2/edit 1 2509 0 1
+/section/23/6/edit 1 1827 0 0
+/answer/2468/value/1 1 20 0 0
+/restaurants/getMfpDfp/1000 1 38 0 0
+/answer/2241/value/0 2 40 0 0
+/answer/2878/value/10 1 20 0 0
+/answer/2840/value/6 2 40 0 0
+/answer/2861/value/5 1 20 0 0
+/restaurants/getMfpDfp/5 1 40 0 0
+/section/28/4/edit 1 1999 0 0
+/section/28/2 4 3192 0 0
+/answer/2866/value/10 1 20 0 0
+/answer/2859/value/5 1 20 0 0
+/section/21/1/edit 1 2633 0 0
+/answer/2827/value/10 1 20 0 0
+/answer/2477/value/1 1 20 0 0
+/section/23/2/edit 2 4154 0 0
+/answer/2848/value/2 1 20 0 0
+/assets/css/bootstrap-select.css.map 4 9090 0 0
+/answer/2898/value/15 1 20 0 0
+/crt/23 7 20141 0 1
+/answer/2826/value/5 1 20 0 0
+/answer/2482/value/1 1 20 0 0
+/crt/26 6 13954 0 0
+/answer/2880/value/5 1 20 0 0
+/answer/2845/value/2 1 20 0 0
+/answer/2837/value/5 1 20 0 0
+/answer/2828/value/5 1 20 0 0
+/crt/21 2 5720 0 0
+/answer/2465/value/1 5 100 0 0
+/crt/34 1 2900 0 0
+/answer/2839/value/2 1 20 0 0
+/assets/fonts/circle-frame/circle-frame-negative-mt-1361548299-webfont.eot 1 8231 0 0
+/section/2/1/edit 1 2707 0 0
+/answer/2824/value/10 1 20 0 0
+/answer/2853/value/2 1 20 0 0
+/crt/37 6 3018 0 0
+/answer/2851/value/5 1 20 0 0
+/answer/2875/value/5 1 20 0 0
+/answer/2886/value/5 1 20 0 0
+/answer/2858/value/5 1 20 0 0
+/answer/2480/value/1 1 20 0 0
+/answer/2466/value/1 1 20 0 0
+END_SIDER
